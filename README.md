@@ -7,7 +7,7 @@
 - Nathan Teal: https://github.com/ntdog36/MIST4610_Group4_Project2
 - George Zupko: https://github.com/gvzupko/MIST4610_Group4_Project2
 - Kelly Stephenson: https://github.com/kms25583-tech/MIST4610_Group4_Project2
-- Kevin Wang:  
+- Kevin Wang:  https://github.com/kkw01911/MIST4610_Group4_Project2
 - Alexis Melchiorre: 
 
 ## Our Data Set
