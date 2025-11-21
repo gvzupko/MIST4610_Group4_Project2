@@ -46,7 +46,7 @@ It contains columns corresponding to the following items:
 - At what point is the energy grid used the least?
 - How do renewables different from traditional sources in month by month consumption. 
 - Help understand which months will experience the highest and lowest energy costs.
-- These results would provides actionable insights for grid designers that could improve reliability and support planning/investment. 
+- These results would provides actionable insights for grid designers that could improve reliability and support planning/investment.
 
 **INSERT GRAPHS HERE**
 
@@ -74,7 +74,7 @@ Renewables usage peaks in the summer months which shows the importance of solar 
 - Highlight future investment needs in renewable energy infrastructure or energy storage
 - These results would provide actionable insights that guide policy, sustainability goals, and long-term energy planning
 
-**INSERT GRAPHS HERE**
+<img width="848" height="547" alt="Screenshot 2025-11-21 at 1 45 01 PM" src="https://github.com/user-attachments/assets/89d70faa-00e2-4198-a33c-460cbb51987b" />
 
 **INSERT SUMMARY/TRENDS HERE**
 
