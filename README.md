@@ -57,6 +57,8 @@ The data set we selected on energy consumption is important because it helps us 
 - Help understand which months will experience the highest and lowest energy costs.
 - These results would provides actionable insights for grid designers that could improve reliability and support planning/investment.
 
+No data manipulations were done for this question
+
 Fossil Fuels:
 
 <img width="350" height="304" alt="Screenshot 2025-11-21 at 2 03 06 PM" src="https://github.com/user-attachments/assets/599f51d2-53a6-47f8-ba90-54b63a6ab98f" />
@@ -73,19 +75,13 @@ Renewable:
 <img width="321" height="307" alt="Screenshot 2025-11-21 at 2 05 00 PM" src="https://github.com/user-attachments/assets/d2105860-2a44-4a40-aa8c-630d3981014e" />
 
 
-
 Summary(High/Low):
 - Fossil Fuels: January/September
 - Nuclear Power: January/April
 - Renewables: May/September
-
 Trends: January seems to be the highest consumption rate, while September has the lowest. 
 
-This means that Grid Operators need to build their gird to withstand the high demands of January.
-
-High energy usage industries like AI should use the September lows to reduce costs.
-
-Renewables usage peaks in the summer months which shows the importance of solar panel to that industry. 
+This means that grid operators need to build their grid to withstand the high demands of January. Gird operators could also schedule maintenance and upgrades to happen in September where the grid is under less strain. High energy usage industries like AI should use the September lows to reduce energy costs. The growth of AI(and AI energy costs) could also pose a threat to the grid in January as AI energy usage would be steady throughout the year so if grids are not properly upgraded power scarcity could become a real thing. Renewables usage peaks in the summer months which shows the importance of solar panels to that industry. This also shows how fickle and reliant on good weather renewables still are. 
 
 ## Question 2
 ### What is the predicted percentage of each energy consumption type out of total energy consumption in the next 10 years?
@@ -104,10 +100,9 @@ Purpose -
 
 <img width="848" height="547" alt="Screenshot 2025-11-21 at 1 45 01 PM" src="https://github.com/user-attachments/assets/89d70faa-00e2-4198-a33c-460cbb51987b" />
 
-**INSERT SUMMARY/TRENDS HERE**
+Summary
+Fossil Fuels are decreasing and expected to be at 81.36% in 2035.
+Renewables are increasing and expected to be at 11.158% in 2035.
+Fossil Fuels are decreasing slightly and are expected to be at 8.361% in 2035.
 
-
-
-
-
-
+Overall Fossil Fuels will maintain their dominance over our energy consumption despite its decline. But, the renewable share is increasing rapidly. We could see this continue especially if the current governmental regulations and subsidies are maintained or increased. But we are unlikely to see renewables become the majority of our energy consumption for a long time. Unless there is a major breakthrough in renewables such as much longer lasting batteries or innovations in tidal power. Nuclear Power will likely maintain its steady decline til fusion technology become viable where we could see nuclear power rapidly become dominant.
