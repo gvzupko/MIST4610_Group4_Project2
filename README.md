@@ -100,9 +100,12 @@ Purpose -
 
 <img width="848" height="547" alt="Screenshot 2025-11-21 at 1 45 01 PM" src="https://github.com/user-attachments/assets/89d70faa-00e2-4198-a33c-460cbb51987b" />
 
-Summary
+## Summary
+
 Fossil Fuels are decreasing and expected to be at 81.36% in 2035.
+
 Renewables are increasing and expected to be at 11.158% in 2035.
+
 Fossil Fuels are decreasing slightly and are expected to be at 8.361% in 2035.
 
 Overall Fossil Fuels will maintain their dominance over our energy consumption despite its decline. But, the renewable share is increasing rapidly. We could see this continue especially if the current governmental regulations and subsidies are maintained or increased. But we are unlikely to see renewables become the majority of our energy consumption for a long time. Unless there is a major breakthrough in renewables such as much longer lasting batteries or innovations in tidal power. Nuclear Power will likely maintain its steady decline til fusion technology become viable where we could see nuclear power rapidly become dominant.
