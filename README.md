@@ -33,7 +33,7 @@ It contains columns corresponding to the following items:
 - Total Columns: 13
 - Units: Quadrillion Btu = 1,000,000,000,000,000 (10¹⁵) Btu
 
-We found our data set on data.gov. The data set is provided by the Department of Energy and was last updated July 6 2021.
+We found our data set on data.gov. The data set is provided by the Department of Energy.
 
 ## Importance of Our Selected Data Set
 - Climate change
